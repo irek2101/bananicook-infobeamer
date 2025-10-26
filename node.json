@@ -3,7 +3,7 @@
   "options": [
     {
       "name": "duration_pierogi",
-      "type": "number",
+      "type": "int",
       "min": 5,
       "max": 60,
       "step": 1,
@@ -12,7 +12,7 @@
     },
     {
       "name": "duration_default",
-      "type": "number",
+      "type": "int",
       "min": 5,
       "max": 60,
       "step": 1,
@@ -21,7 +21,7 @@
     },
     {
       "name": "crossfade",
-      "type": "number",
+      "type": "float",
       "min": 0.0,
       "max": 3.0,
       "step": 0.1,
@@ -30,13 +30,13 @@
     },
     {
       "name": "show_wisnia",
-      "type": "boolean",
+      "type": "bool",
       "default": false,
       "help": "Pokazuj smak 'Wiśnia' (on = dostępne)"
     },
     {
       "name": "show_leniwe",
-      "type": "boolean",
+      "type": "bool",
       "default": false,
       "help": "Pokazuj 'Leniwe' (on = dostępne)"
     }
