@@ -4,35 +4,31 @@
       "file": "slides/4K_promo_new_golabki.png"
     },
     {
-      "key": "pierogi",
-      "on": "slides/4K_pierogi_wisnia_on.png",
-      "off": "slides/4K_pierogi_wisnia_off.png"
+      "file": "4K_menu_pierogi.png"
     },
     {
-      "key": "dania_maczne",
-      "on": "slides/4K_dania_leniwe_on.png",
-      "off": "slides/4K_dania_leniwe_off.png"
+      "file": "4K_menu_dania_maczne.png"
     },
     {
-      "file": "slides/4K_golabki.png"
+      "file": "4K_menu_golabki.png"
     },
     {
-      "file": "slides/4K_nalesniki.png"
+      "file": "4K_menu_nalesniki.png"
     },
     {
-      "file": "slides/4K_krokiety.png"
+      "file": "4K_menu_krokiety.png"
     },
     {
-      "file": "slides/4K_zupy.png"
+      "file": "4K_menu_zupy.png"
     },
     {
-      "file": "slides/4K_napoje.png"
+      "file": "4K_menu_napoje.png"
     },
     {
-      "file": "slides/4K_dodatki.png"
+      "file": "4K_menu_dodatki.png"
     },
     {
-      "file": "slides/4K_specjal.png"
+      "file": "4K_menu_specjal_panko.png"
     }
   ]
 }
