@@ -1,1 +1,6 @@
-{"name": "Bananicook 1080p Menu", "version": "2.0.1"}
+{
+  "name": "Bananicook 1080p Menu",
+  "author": "IrekM Tech",
+  "desc": "Diagnostic build: simple moving bar to verify rendering. Use 1920x1080 video mode.",
+  "version": "2.0.2"
+}
