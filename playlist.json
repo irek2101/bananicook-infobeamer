@@ -1,34 +1,34 @@
 {
   "slides": [
     {
-      "file": "slides/4K_promo_new_golabki.png"
+      "key": "promo"
     },
     {
-      "file": "4K_menu_pierogi.png"
+      "key": "pierogi"
     },
     {
-      "file": "4K_menu_dania_maczne.png"
+      "key": "dania"
     },
     {
-      "file": "4K_menu_golabki.png"
+      "key": "golabki"
     },
     {
-      "file": "4K_menu_nalesniki.png"
+      "key": "nalesniki"
     },
     {
-      "file": "4K_menu_krokiety.png"
+      "key": "krokiety"
     },
     {
-      "file": "4K_menu_zupy.png"
+      "key": "zupy"
     },
     {
-      "file": "4K_menu_napoje.png"
+      "key": "napoje"
     },
     {
-      "file": "4K_menu_dodatki.png"
+      "key": "dodatki"
     },
     {
-      "file": "4K_menu_specjal_panko.png"
+      "key": "specjal"
     }
   ]
 }

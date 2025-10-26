@@ -20,18 +20,202 @@
       "default": 0.8
     },
     {
-      "title": "Pokazuj smak 'Wiśnia'",
-      "name": "show_wisnia",
+      "title": "Pokaż slajd PROMOCJE/NEW",
+      "name": "show_promo",
       "type": "boolean",
-      "default": false,
-      "info": "ON = dostępne"
+      "default": true
     },
     {
-      "title": "Pokazuj 'Leniwe'",
-      "name": "show_leniwe",
+      "title": "Dostępne – Pierogi: Polskie",
+      "name": "pierogi_polskie",
       "type": "boolean",
-      "default": false,
-      "info": "ON = dostępne"
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Mięso",
+      "name": "pierogi_mieso",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Szpinak z fetą",
+      "name": "pierogi_szpinak_feta",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Łosoś",
+      "name": "pierogi_losos",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Pieczarki z ziemniakami",
+      "name": "pierogi_pieczarki",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Kapusta z grzybami",
+      "name": "pierogi_kapusta_grzyby",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Wiśnia",
+      "name": "pierogi_wisnia",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Borówka",
+      "name": "pierogi_borowka",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Malina",
+      "name": "pierogi_malina",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Pierogi: Twaróg",
+      "name": "pierogi_twarog",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dania: Pielmieni",
+      "name": "dania_pielmieni",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dania: Pyzy z mięsem",
+      "name": "dania_pyzy",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dania: Knedle ze śliwką",
+      "name": "dania_knedle",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dania: Leniwe",
+      "name": "dania_leniwe",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Gołąbki: mięsne/wege",
+      "name": "golabki_miesne_wege",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Naleśniki: twaróg",
+      "name": "nalesniki_twarog",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Naleśniki: pieczarki+cheddar",
+      "name": "nalesniki_pieczarki_cheddar",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Krokiety: mięso",
+      "name": "krokiety_mieso",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Krokiety: szpinak+feta",
+      "name": "krokiety_szpinak_feta",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Krokiety: pieczarki+cheddar",
+      "name": "krokiety_pieczarki_cheddar",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Zupa: rosół z makaronem",
+      "name": "zupa_rosol_makaron",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Zupa: rosół z pielmieni",
+      "name": "zupa_rosol_pielmieni",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Zupa: barszcz ukraiński",
+      "name": "zupa_barszcz_ukr",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Napoje: soki 300 ml",
+      "name": "napoje_soki",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Napoje: barszcz czysty",
+      "name": "napoje_barszcz_czysty",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Napoje: kefir",
+      "name": "napoje_kefir",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dodatek: boczek",
+      "name": "dod_boczek",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dodatek: 2× cebula",
+      "name": "dod_cebulka",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dodatek: śmietana",
+      "name": "dod_smietana",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dodatek: sztućce",
+      "name": "dod_sztucce",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Dodatek: dodatkowe opakowanie",
+      "name": "dod_opakowanie",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "title": "Dostępne – Specjał: pierogi w panko",
+      "name": "specjal_panko",
+      "type": "boolean",
+      "default": true
     }
   ]
 }
