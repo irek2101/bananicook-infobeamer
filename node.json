@@ -1,5 +1,5 @@
 {
-  "name": "Bananicook Node (1080p)",
+  "name": "Bananicook 1080p Menu",
   "options": [
     {
       "title": "Czas slajdu PIEROGI [s]",
@@ -26,193 +26,193 @@
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Polskie",
+      "title": "Dostępne – Pierogi Polskie",
       "name": "pierogi_polskie",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Mięso",
+      "title": "Dostępne – Pierogi Mieso",
       "name": "pierogi_mieso",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Szpinak z fetą",
+      "title": "Dostępne – Pierogi Szpinak Feta",
       "name": "pierogi_szpinak_feta",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Łosoś",
+      "title": "Dostępne – Pierogi Losos",
       "name": "pierogi_losos",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Pieczarki z ziemniakami",
+      "title": "Dostępne – Pierogi Pieczarki",
       "name": "pierogi_pieczarki",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Kapusta z grzybami",
+      "title": "Dostępne – Pierogi Kapusta Grzyby",
       "name": "pierogi_kapusta_grzyby",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Wiśnia",
+      "title": "Dostępne – Pierogi Wisnia",
       "name": "pierogi_wisnia",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Borówka",
+      "title": "Dostępne – Pierogi Borowka",
       "name": "pierogi_borowka",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Malina",
+      "title": "Dostępne – Pierogi Malina",
       "name": "pierogi_malina",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Pierogi: Twaróg",
+      "title": "Dostępne – Pierogi Twarog",
       "name": "pierogi_twarog",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dania: Pielmieni",
+      "title": "Dostępne – Dania Pielmieni",
       "name": "dania_pielmieni",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dania: Pyzy z mięsem",
+      "title": "Dostępne – Dania Pyzy",
       "name": "dania_pyzy",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dania: Knedle ze śliwką",
+      "title": "Dostępne – Dania Knedle",
       "name": "dania_knedle",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dania: Leniwe",
+      "title": "Dostępne – Dania Leniwe",
       "name": "dania_leniwe",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Gołąbki: mięsne/wege",
+      "title": "Dostępne – Golabki Miesne Wege",
       "name": "golabki_miesne_wege",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Naleśniki: twaróg",
+      "title": "Dostępne – Nalesniki Twarog",
       "name": "nalesniki_twarog",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Naleśniki: pieczarki+cheddar",
+      "title": "Dostępne – Nalesniki Pieczarki Cheddar",
       "name": "nalesniki_pieczarki_cheddar",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Krokiety: mięso",
+      "title": "Dostępne – Krokiety Mieso",
       "name": "krokiety_mieso",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Krokiety: szpinak+feta",
+      "title": "Dostępne – Krokiety Szpinak Feta",
       "name": "krokiety_szpinak_feta",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Krokiety: pieczarki+cheddar",
+      "title": "Dostępne – Krokiety Pieczarki Cheddar",
       "name": "krokiety_pieczarki_cheddar",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Zupa: rosół z makaronem",
+      "title": "Dostępne – Zupa Rosol Makaron",
       "name": "zupa_rosol_makaron",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Zupa: rosół z pielmieni",
+      "title": "Dostępne – Zupa Rosol Pielmieni",
       "name": "zupa_rosol_pielmieni",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Zupa: barszcz ukraiński",
+      "title": "Dostępne – Zupa Barszcz Ukr",
       "name": "zupa_barszcz_ukr",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Napoje: soki 300 ml",
+      "title": "Dostępne – Napoje Soki",
       "name": "napoje_soki",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Napoje: barszcz czysty",
+      "title": "Dostępne – Napoje Barszcz Czysty",
       "name": "napoje_barszcz_czysty",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Napoje: kefir",
+      "title": "Dostępne – Napoje Kefir",
       "name": "napoje_kefir",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dodatek: boczek",
+      "title": "Dostępne – Dod Boczek",
       "name": "dod_boczek",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dodatek: 2× cebula",
+      "title": "Dostępne – Dod Cebulka",
       "name": "dod_cebulka",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dodatek: śmietana",
+      "title": "Dostępne – Dod Smietana",
       "name": "dod_smietana",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dodatek: sztućce",
+      "title": "Dostępne – Dod Sztucce",
       "name": "dod_sztucce",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Dodatek: dodatkowe opakowanie",
+      "title": "Dostępne – Dod Opakowanie",
       "name": "dod_opakowanie",
       "type": "boolean",
       "default": true
     },
     {
-      "title": "Dostępne – Specjał: pierogi w panko",
+      "title": "Dostępne – Specjal Panko",
       "name": "specjal_panko",
       "type": "boolean",
       "default": true
