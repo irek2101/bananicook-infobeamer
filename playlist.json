@@ -1,0 +1,41 @@
+{
+  "crossfade": 0.8,
+  "slides": [
+    {
+      "file": "4K_menu_pierogi.png",
+      "duration": 12
+    },
+    {
+      "file": "4K_menu_dania_maczne.png",
+      "duration": 12
+    },
+    {
+      "file": "4K_menu_golabki.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_nalesniki.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_krokiety.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_zupy.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_napoje.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_dodatki.png",
+      "duration": 10
+    },
+    {
+      "file": "4K_menu_specjal_panko.png",
+      "duration": 10
+    }
+  ]
+}
