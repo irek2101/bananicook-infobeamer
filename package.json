@@ -1,6 +1,6 @@
 {
   "name": "Bananicook 1080p Menu",
   "author": "IrekM Tech",
-  "desc": "Diagnostic build: simple moving bar to verify rendering. Use 1920x1080 video mode.",
-  "version": "2.0.2"
+  "desc": "Diagnostic build 2.0.3: static white box on navy background (1920x1080).",
+  "version": "2.0.3"
 }
