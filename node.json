@@ -1,5 +1,5 @@
 {
-  "name": "Bananicook Node",
+  "name": "Bananicook Node (1080p)",
   "options": [
     {
       "title": "Czas slajdu PIEROGI [s]",
@@ -17,7 +17,7 @@
       "title": "Przenikanie [s]",
       "name": "crossfade",
       "type": "float",
-      "default": 0.8
+      "default": 0.7
     },
     {
       "title": "Pokaż slajd PROMOCJE/NEW",

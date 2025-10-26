@@ -1,6 +1,6 @@
 {
-  "name": "Bananicook 4K Menu",
+  "name": "Bananicook 1080p Menu",
   "author": "IrekM Tech",
-  "desc": "Dynamic 4K menu: per-item ON/OFF switches, durations & crossfade; photo backgrounds; promo slide.",
-  "version": "1.2.0"
+  "desc": "Dynamic 1080p menu with per-item ON/OFF switches and soft photo backgrounds.",
+  "version": "2.0.0"
 }
