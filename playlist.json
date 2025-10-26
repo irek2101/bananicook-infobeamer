@@ -1,41 +1,38 @@
 {
-  "crossfade": 0.8,
   "slides": [
     {
-      "file": "4K_menu_pierogi.png",
-      "duration": 12
+      "file": "slides/4K_promo_new_golabki.png"
     },
     {
-      "file": "4K_menu_dania_maczne.png",
-      "duration": 12
+      "key": "pierogi",
+      "on": "slides/4K_pierogi_wisnia_on.png",
+      "off": "slides/4K_pierogi_wisnia_off.png"
     },
     {
-      "file": "4K_menu_golabki.png",
-      "duration": 10
+      "key": "dania_maczne",
+      "on": "slides/4K_dania_leniwe_on.png",
+      "off": "slides/4K_dania_leniwe_off.png"
     },
     {
-      "file": "4K_menu_nalesniki.png",
-      "duration": 10
+      "file": "slides/4K_golabki.png"
     },
     {
-      "file": "4K_menu_krokiety.png",
-      "duration": 10
+      "file": "slides/4K_nalesniki.png"
     },
     {
-      "file": "4K_menu_zupy.png",
-      "duration": 10
+      "file": "slides/4K_krokiety.png"
     },
     {
-      "file": "4K_menu_napoje.png",
-      "duration": 10
+      "file": "slides/4K_zupy.png"
     },
     {
-      "file": "4K_menu_dodatki.png",
-      "duration": 10
+      "file": "slides/4K_napoje.png"
     },
     {
-      "file": "4K_menu_specjal_panko.png",
-      "duration": 10
+      "file": "slides/4K_dodatki.png"
+    },
+    {
+      "file": "slides/4K_specjal.png"
     }
   ]
 }
