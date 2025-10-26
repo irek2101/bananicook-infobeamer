@@ -1,6 +1,6 @@
 {
   "name": "Bananicook 1080p Menu",
   "author": "IrekM Tech",
-  "desc": "Diagnostic build 2.0.3: static white box on navy background (1920x1080).",
-  "version": "2.0.3"
+  "desc": "Diagnostic build 2.0.4: draws white box via colored texture + red marker (1920x1080).",
+  "version": "2.0.4"
 }
